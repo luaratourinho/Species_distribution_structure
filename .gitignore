@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+outputs
+1_calculating_area_Mapbiomas_naoajeitei.R
+1_calculating_area_GO.R
+0_mpc20_GO.R
+3_landscapemetrics_GO.R
+show_correlation.R
+testing_projections.R
+*.Rproj
+2_landscapemetrics.R
